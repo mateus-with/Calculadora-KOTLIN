@@ -35,3 +35,5 @@ Este é um projeto de calculadora simples, desenvolvido como atividade da discip
 2. Abra o projeto no Android Studio
 
 3. Rode o app em um emulador ou dispositivo físico com Android 7+ (API 24+)
+
+Feito com 💙 por Mateus
